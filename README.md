@@ -1,6 +1,17 @@
 # 🐳 SyftMax Docker Image
 
-This repository provides a prebuilt Docker image for running **SyftMax** — no manual setup or compilation required.
+This repository provides a prebuilt Docker image for running **SyftMax** — no manual setup or compilation required. 
+
+### What is Docker?
+Docker is a tool that lets you package your application and everything it needs (like code, libraries, and settings) into a single unit called a container. This container can run anywhere—your laptop, a server, or the cloud—and it will work the same way every time.
+
+### What is a Dockerfile?
+A Dockerfile is like a recipe for building a container. It’s a text file with step-by-step instructions telling Docker how to create an environment for your application—like what base system to use, what software to install, and what commands to run.
+
+### What is a Docker Image?
+A Docker image is the result of building a Dockerfile. It’s a snapshot of your app and its environment—like a frozen, ready-to-go version of your setup. You can share this image, and Docker can use it to launch containers instantly.
+
+More information can be found in the [Docker documentation](https://docs.docker.com).
 
 ---
 
