@@ -77,5 +77,3 @@ or `CTRL` + `D` to quit the Docker shell and stop the container.
 
 You’re all set to use **SyftMax** via Docker with zero setup on your host system.
 Good luck with your exam!
-
-```
