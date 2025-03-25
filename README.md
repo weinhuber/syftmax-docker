@@ -58,6 +58,7 @@ Once inside the container, run:
 ```
 
 > 📁 You can use Nano/Vim to manipulate `formula.ltlf` and `partition.part` inside the container.
+> We use the standard syntax, as introduced in the lecture with `X` and `WX`.
 
 ---
 
