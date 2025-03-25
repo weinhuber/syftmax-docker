@@ -4,18 +4,19 @@ This repository provides a prebuilt Docker image for running **SyftMax** — no 
 
 ---
 
-## ⚙️ 1. Clone the Repository
+## ⚙️ 1. Download Docker Image
 
-```bash
-git clone git@github.com:weinhuber/syftmax-docker.git
-cd syftmax-docker
-```
+Download the Docker image: 
+
+
+👉 [https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8](https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8)
 
 ---
 
 ## 🐋 2. Install Docker
 
 Download and install Docker from the official site:  
+
 👉 [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
 
 After installation, verify it works:
