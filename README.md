@@ -13,18 +13,7 @@ A Docker image is the result of building a Dockerfile. It’s a snapshot of your
 
 More information can be found in the [Docker documentation](https://docs.docker.com).
 
----
-
-## ⚙️ 1. Download Docker Image
-
-Download the Docker image: 
-
-
-👉 [https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8](https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8)
-
----
-
-## 🐋 2. Install Docker
+## 🐋 1. Install Docker
 
 Download and install Docker from the official site:  
 
@@ -35,6 +24,16 @@ After installation, verify it works:
 ```bash
 docker --version
 ```
+
+---
+
+## ⚙️ 2. Download Docker Image
+
+Download the Docker image: 
+
+
+👉 [https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8](https://unioxfordnexus-my.sharepoint.com/:u:/g/personal/coml0935_ox_ac_uk/EUZT-5MjsERIoWTg_gAzbfUB9CVyTNH5m6mLNW4B-9nF-Q?e=22XKt8)
+
 
 ---
 
